@@ -23,7 +23,8 @@
     "multer": "^1.4.5-lts.1",
     "uuid": "^9.0.1",
     "node-fetch": "^2.7.0",
-    "express-fileupload": "^1.4.0"
+    "express-fileupload": "^1.4.0",
+    "archiver": "^5.3.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
