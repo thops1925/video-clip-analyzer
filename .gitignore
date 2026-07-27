@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Directory for instrumented libs
+lib-cov/
+
+# Coverage directory
+coverage/
+
+# Grunt intermediate storage
+.grunt/
+
+# Build directory
+build/
+dist/
+client/build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Directories
+uploads/
+clips/
+
+# OS
+.DS_Store
+Thumbs.db
